@@ -1,4 +1,9 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <a href="https://github.com/lamula21/lamula21/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;">
+  </a>
+</div>
+
 
 <!--
 **lamula21/lamula21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
