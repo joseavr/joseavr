@@ -16,7 +16,7 @@
         --color-main: #ff9b71;
         --color-primary: #ff4444;
         --color-secondary: #e8e677;
-        --color-background: #0d111700;
+        --color-background: #0d1117;
         --color-link: #ff4444;
         --color-link-active: #ff4444;
 
@@ -176,7 +176,7 @@
           --color-main: #171fc6;
           --color-primary: #1c6cb8;
           --color-secondary: #0fafb2;
-          --color-background: #ffffff00;
+          --color-background: #ffffff;
           --color-link: #f90000;
           --color-link-active: #f15b5b;
         }
