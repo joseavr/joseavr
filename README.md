@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 Javascript, Typescript, Python, C, Ruby, Rust.
 - 🌐 HTML, Tailwind, React Native, React, NextJS, Express, Flask.
 - 💾 MongoDB, Prisma, PostgreSQL, MySQL.
-- ⚙️ Git, Github, OpenAI, JWT, Next Auth, Auth Clerk, Redux, Zustand.
+- ⚙️ Git, Github, OpenAI, JWT, Next Auth, Auth Clerk, Redux, Zustand, Radix UI.
 - 🔧 Visual Studio Code, XCode.
 - 🖥️ Photoshop, Figma.
 
