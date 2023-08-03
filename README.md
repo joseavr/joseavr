@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Currently have 10.0 GPA
 
 ## 🛠️ Tech Stack
-- 💻 Javascript, Python, C, Ruby, Rust
-- 🌐 HTML, Tailwind, React Native, React, NextJS, Express, Typescrypt, Flask.
-- 💾 MongoDB, Prisma, PostgreSQL, MySQL
-- ⚙️ Git, Github
-- 🔧 Visual Studio Code, XCode
-- 🖥️ Photoshop, Figma
+- 💻 Javascript, Typescript, Python, C, Ruby, Rust.
+- 🌐 HTML, Tailwind, React Native, React, NextJS, Express, Flask.
+- 💾 MongoDB, Prisma, PostgreSQL, MySQL.
+- ⚙️ Git, Github, OpenAI, JWT, Next Auth, Auth Clerk, Redux, Zustand.
+- 🔧 Visual Studio Code, XCode.
+- 🖥️ Photoshop, Figma.
 
