@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📚 Currently learning NextJS, Typescript, React Native, Prisma, PostgreSQL.
 - 🙋🏻‍♂️ I’m looking to collaborate on backend/frontend projects. 
 - 📫 How to reach me: 1999josevaldivia@gmail.com.
-- ⚡ Fun fact: Currently have 10.0 GPA
 
 ## 🛠️ Tech Stack
 - 💻 Javascript, Typescript, Python, C, Ruby, Rust.
