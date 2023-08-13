@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🎓 Graduating in Spring 2024 with a Bachelor's in Computer Science.
 - 📚 Currently learning NextJS, Typescript, React Native, Prisma, PostgreSQL.
 - 🙋🏻‍♂️ I’m looking to collaborate on backend/frontend projects. 
-- 📫 How to reach me: 1999josevaldivia@gmail.com.
+- 📫 How to reach me: jvaldiv8@terpmail.umd.edu
 
 ## 🛠️ Tech Stack
 - 💻 Javascript, Typescript, Python, C, Ruby, Rust.
