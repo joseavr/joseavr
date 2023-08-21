@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me
 - 💼 Currently working as a Full Stack Developer in [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
 - 🎓 Graduating in Spring 2024 with a Bachelor's in Computer Science.
-- 📚 Currently learning NextJS, Typescript, React Native, Prisma, PostgreSQL.
-- 🙋🏻‍♂️ I’m looking to collaborate on backend/frontend projects. 
+- 📚 Currently learning Typescript, React Native, Prisma, PostgreSQL, Supabase.
+- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
 - 📫 How to reach me: jvaldiv8@terpmail.umd.edu
 
 ## 🛠️ Tech Stack
