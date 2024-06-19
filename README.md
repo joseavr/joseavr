@@ -11,17 +11,18 @@
 Here are some ideas to get you started:
 -->
 ## 👨🏻‍💻 About Me
-- 💼 Currently working as a Full Stack Developer in [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
-- 🎓 Graduating in Spring 2024 with a Bachelor's in Computer Science.
-- 📚 Currently learning Typescript, React Native, Prisma, PostgreSQL, Supabase.
+- 💼 Currently working as a Web Developer at [Upwork](https://www.upwork.com/).
+- 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
+- 🎓 Graduated in 2024 with a Bachelor's in Computer Science and minor in Math.
+- 📚 Currently learning Compilers, React Native, Prisma.
 - 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
 - 📫 How to reach me: jvaldiv8@terpmail.umd.edu
 
 ## 🛠️ Tech Stack
-- 💻 Javascript, Typescript, Python, C, Ruby, Rust.
-- 🌐 HTML, Tailwind, React Native, React, NextJS, Express, Flask.
-- 💾 MongoDB, Prisma, PostgreSQL, MySQL.
-- ⚙️ Git, Github, OpenAI, JWT, Next Auth, Auth Clerk, Redux, Zustand, Radix UI.
-- 🔧 Visual Studio Code, XCode.
+- 💻 Typescript, Node.js, Python, C, Ruby, Rust.
+- 🌐 React, NextJS, Express, Flask.
+- 💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
+- ⚙️  JWT, Next Auth, Auth Clerk, Redux, Zustand.
+- 🔧 Visual Studio Code.
 - 🖥️ Photoshop, Figma.
 
