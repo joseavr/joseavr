@@ -65,7 +65,7 @@
 </table>
 
 
-<h3>I am...</h3>
+<h3>About Me</h3>
 
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
