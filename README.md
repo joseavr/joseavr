@@ -1,8 +1,21 @@
 
+## 👨🏻‍💻 About Me
 
 Hi, I'm Jose Valdivia
 
 I just code for fun.
+
+- 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
+- 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
+- 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
+- 📚 Learning about AI agents, RAG, Compilers, React Native.
+- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
+- 📫 How to reach me: jvaldivia.dev@gmail.com
+- 🌐 See personal website: https://marval.xyz
+
+![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Valdivia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Badge Profile Count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> </p>
@@ -10,7 +23,7 @@ I just code for fun.
 
 ## Open Source Projects
 
--<table>
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -29,7 +42,7 @@ I just code for fun.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/joseavr/code-scope-highlighter"><b>Code Scope Highlighter VS Code Extension</b></a></td>
+      <td><a href="https://github.com/joseavr/code-scope-highlighter"><b>Code Scope Highlighter - VS Code Extension</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
@@ -54,21 +67,13 @@ I just code for fun.
   </tbody>
 </table>
 
-## Recent Articles
+## Recent Posts
+
+- [How to Develop a Software: From Idea to Product](https://www.marval.xyz/b/how-to-develop-software)
+- [Applying SOLID principles in React]([https://www.marval.xyz/b/applying-solid-principles-in-react)
 
 
-## 👨🏻‍💻 About Me
-- 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
-- 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
-- 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
-- 📚 Learning about AI agents, RAG, Compilers, React Native.
-- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
-- 📫 How to reach me: jvaldivia.dev@gmail.com
-- 🌐 See personal website: https://marval.xyz
 
-![FractalCodeRicardo's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![FractalCodeRicardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🛠️ Tech Stack (TO CHANGE)
