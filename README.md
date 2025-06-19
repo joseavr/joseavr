@@ -4,25 +4,20 @@
   </a>
 </div>
 
-
-<!--
-**lamula21/lamula21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ## 👨🏻‍💻 About Me
-- 💼 Currently working as a Web Developer at [Upwork](https://www.upwork.com/).
+- 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
-- 🎓 Graduated in 2024 with a Bachelor's in Computer Science and minor in Math.
-- 📚 Currently learning Compilers, React Native, Prisma.
+- 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
+- 📚 Learning about AI agents, RAG, Compilers, React Native.
 - 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
-- 📫 How to reach me: jvaldiv8@terpmail.umd.edu
+- 📫 How to reach me: jvaldivia.dev@gmail.com
+- 🌐 See personal website: https://marval.xyz
 
 ## 🛠️ Tech Stack
 - 💻 Typescript, Node.js, Python, C, Ruby, Rust.
 - 🌐 React, NextJS, Express, Flask.
 - 💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
-- ⚙️  JWT, Next Auth, Auth Clerk, Redux, Zustand.
-- 🔧 Visual Studio Code.
-- 🖥️ Photoshop, Figma.
+- ⚙️ JWT, Next Auth, Auth Clerk, Redux, Zustand.
+- 🔧 Visual Studio Code. (I don't use Cursor)
+- 🖥️ Figma
 
