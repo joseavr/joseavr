@@ -76,9 +76,9 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table style="border: none;">
   <tr>
-    <td align="left" valign="top" style="border: none;">
+    <td align="left" valign="top" >
       <ul>
         <li>💻 Typescript, Node.js, Python, C, Ruby, Rust.</li>
         <li>🌐 React, NextJS, Express, Flask.</li>
@@ -88,7 +88,7 @@
         <li>🖥️ Figma</li>
       </ul>
     </td>
-    <td align="right" valign="top" style="border: none;">
+    <td align="right" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages">
     </td>
   </tr>
