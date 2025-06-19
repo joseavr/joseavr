@@ -9,7 +9,7 @@
   <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
 </p>
 
-1+ years of experience as a Software Developer, passionate on building complex projects from scratch, leading teams, teaching, and creating documentation.
+<samp> 1+ years of experience as a Software Developer, passionate on building complex projects from scratch, leading teams, teaching, and creating documentation.</samp>
 
 
 <h3> Recent Posts </h3>
