@@ -19,7 +19,11 @@
 - 📫 How to reach me: jvaldivia.dev@gmail.com
 - 🌐 See personal website: https://marval.xyz
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
+
 ![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
 
 
 ## Open Source Projects
@@ -74,14 +78,5 @@
 - [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
-## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
-
-- 💻 Typescript, Node.js, Python, C, Ruby, Rust.
-- 🌐 React, NextJS, Express, Flask.
-- 💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
-- ⚙️ JWT, Next Auth, Auth Clerk, Redux, Zustand.
-- 🔧 Visual Studio Code. (I don't use Cursor)
-- 🖥️ Figma
 
