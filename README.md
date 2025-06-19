@@ -1,10 +1,17 @@
+![alt text](image-2.png)
 
-## 👨🏻‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> •  
+  <a href="https://marval.xyz/b">Blog</a> •
+  <a href="https://www.linkedin.com/in/joseavr/">Linkedin</a> •
+  <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
+</p>
 
-Hi, I'm Jose Valdivia and I just code for fun. 
+---
+
 
 <!-- Badge Profile Count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> </p>
+
 
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
@@ -15,11 +22,6 @@ Hi, I'm Jose Valdivia and I just code for fun.
 - 🌐 See personal website: https://marval.xyz
 
 ![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-### Recent Posts
-
-- How to Develop a Software: From Idea to Product [↗](https://www.marval.xyz/b/how-to-develop-software)
-- Applying SOLID principles in React [↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
 ## Open Source Projects
@@ -68,6 +70,10 @@ Hi, I'm Jose Valdivia and I just code for fun.
   </tbody>
 </table>
 
+## Recent Posts
+
+- How to Develop a Software: From Idea to Product [↗](https://www.marval.xyz/b/how-to-develop-software)
+- Applying SOLID principles in React [↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
 ## 🛠️ Tech Stack
