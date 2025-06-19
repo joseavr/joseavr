@@ -76,7 +76,7 @@
 - 🌐 See personal website: https://marval.xyz
 
 <!-- Valdivia's Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Valdivia's Top Languages" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
 
 <!-- Valdivia's Github Stats -->
 ![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
