@@ -16,8 +16,10 @@ Hi, I'm Jose Valdivia and I just code for fun.
 
 ![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+### Recent Posts
 
-
+- How to Develop a Software: From Idea to Product [↗](https://www.marval.xyz/b/how-to-develop-software)
+- Applying SOLID principles in React [↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
 ## Open Source Projects
@@ -66,13 +68,9 @@ Hi, I'm Jose Valdivia and I just code for fun.
   </tbody>
 </table>
 
-## Recent Posts
-
-- [How to Develop a Software: From Idea to Product](https://www.marval.xyz/b/how-to-develop-software)
-- [Applying SOLID principles in React]([https://www.marval.xyz/b/applying-solid-principles-in-react)
 
 
-## 🛠️ Tech Stack (TO CHANGE)
+## 🛠️ Tech Stack
 
 - 💻 Typescript, Node.js, Python, C, Ruby, Rust.
 - 🌐 React, NextJS, Express, Flask.
