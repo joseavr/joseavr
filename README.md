@@ -1,5 +1,5 @@
 
-<h3 align="center"><image src="/image-2.png" alt="Welcome image"></h3>
+<h3 align="center"><image src="https://github.com/joseavr/joseavr/blob/main/image.png" alt="Welcome image"></h3>
 
 
 <p align="center">
