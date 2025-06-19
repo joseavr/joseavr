@@ -9,16 +9,16 @@
   <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
 </p>
 
-<h3>Recent Posts</h3>
+
+
+
+<h3> Recent Posts </h3>
 
 - [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
 - [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
-
-
-
-## Open Source Projects
+<h3> Open Source Projects </h3>
 
 <table>
   <thead align="center">
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/joseavr/next-streaming
-"><b>Backgroundless</b></a></td>
+"><b>Sandbox.tv</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
