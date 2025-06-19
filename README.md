@@ -1,8 +1,17 @@
-<div style="width: 100%;">
-  <a href="https://github.com/lamula21/lamula21/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;">
-  </a>
-</div>
+
+
+Hi, I'm Jose Valdivia
+
+I just code for fun.
+
+<!-- Badge Profile Count -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> </p>
+
+
+## Open Source Projects
+
+## Recent Articles
+
 
 ## 👨🏻‍💻 About Me
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
@@ -13,7 +22,12 @@
 - 📫 How to reach me: jvaldivia.dev@gmail.com
 - 🌐 See personal website: https://marval.xyz
 
-## 🛠️ Tech Stack
+![FractalCodeRicardo's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![FractalCodeRicardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+## 🛠️ Tech Stack (TO CHANGE)
 - 💻 Typescript, Node.js, Python, C, Ruby, Rust.
 - 🌐 React, NextJS, Express, Flask.
 - 💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
