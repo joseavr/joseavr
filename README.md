@@ -10,6 +10,50 @@ I just code for fun.
 
 ## Open Source Projects
 
+-<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/joseavr/apptracker"><b>AppTracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/joseavr/code-scope-highlighter"><b>Code Scope Highlighter VS Code Extension</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joseavr/react-cloudinary-remove-bg
+"><b>Backgroundless</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joseavr/next-streaming
+"><b>Backgroundless</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Recent Articles
 
 
