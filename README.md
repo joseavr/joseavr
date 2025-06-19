@@ -25,6 +25,14 @@
 
 
 
+<h3>Recent Posts</h3>
+
+- [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
+- [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
+
+
+
+
 
 ## Open Source Projects
 
@@ -71,12 +79,3 @@
     </tr>
   </tbody>
 </table>
-
-## Recent Posts
-
-- [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
-- [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
-
-
-
-
