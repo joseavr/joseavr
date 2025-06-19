@@ -9,22 +9,6 @@
   <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
 </p>
 
-<h3>About me</h3>
-
-- 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
-- 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
-- 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
-- 📚 Learning about AI agents, RAG, Compilers, React Native.
-- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
-- 📫 How to reach me: jvaldivia.dev@gmail.com
-- 🌐 See personal website: https://marval.xyz
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
-
-![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-
-
 <h3>Recent Posts</h3>
 
 - [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
@@ -79,3 +63,21 @@
     </tr>
   </tbody>
 </table>
+
+
+<h3>About me</h3>
+
+- 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
+- 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
+- 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
+- 📚 Learning about AI agents, RAG, Compilers, React Native.
+- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
+- 📫 How to reach me: jvaldivia.dev@gmail.com
+- 🌐 See personal website: https://marval.xyz
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
+
+![Valdivia's Stats](https://github-readme-stats.vercel.app/api?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+
