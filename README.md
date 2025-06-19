@@ -1,4 +1,6 @@
-![alt text](image-2.png)
+<h3 align="center">
+  ![welcome image](image-2.png)
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> •  
