@@ -9,11 +9,7 @@
   <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
 </p>
 
----
-
-
-<!-- Badge Profile Count -->
-
+<h3>About me</h3>
 
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
@@ -74,17 +70,26 @@
 
 ## Recent Posts
 
-- How to Develop a Software: From Idea to Product [↗](https://www.marval.xyz/b/how-to-develop-software)
-- Applying SOLID principles in React [↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
+- [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
+- [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
 
 
 ## 🛠️ Tech Stack
 
-- 💻 Typescript, Node.js, Python, C, Ruby, Rust.
-- 🌐 React, NextJS, Express, Flask.
-- 💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
-- ⚙️ JWT, Next Auth, Auth Clerk, Redux, Zustand.
-- 🔧 Visual Studio Code. (I don't use Cursor)
-- 🖥️ Figma
-
-![Valdivia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>💻 Typescript, Node.js, Python, C, Ruby, Rust.</li>
+        <li>🌐 React, NextJS, Express, Flask.</li>
+        <li>💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.</li>
+        <li>⚙️ JWT, Next Auth, Auth Clerk, Redux, Zustand.</li>
+        <li>🔧 Visual Studio Code. (I don't use Cursor)</li>
+        <li>🖥️ Figma</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages">
+    </td>
+  </tr>
+</table>
