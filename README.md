@@ -9,7 +9,7 @@
   <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
 </p>
 
-
+1+ years of experience as a Software Developer, passionate on building complex projects from scratch, leading teams, teaching, and creating documentation.
 
 
 <h3> Recent Posts </h3>
@@ -65,13 +65,13 @@
 </table>
 
 
-<h3>About me</h3>
+<h3>I am...</h3>
 
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
 - 🎓 Graduated in 2024 with a Bachelor of Computer Science and minor in Mathemathics.
 - 📚 Learning about AI agents, RAG, Compilers, React Native.
-- 🙋🏻‍♂️ I’m open to work on backend/frontend projects. 
+- 🙋🏻‍♂️ Open to work on backend/frontend projects. 
 - 📫 How to reach me: jvaldivia.dev@gmail.com
 - 🌐 See personal website: https://marval.xyz
 
