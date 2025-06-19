@@ -77,8 +77,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <span>
-    <ul>
+ <ul>
       <li>💻 Typescript, Node.js, Python, C, Ruby, Rust.</li>
       <li>🌐 React, NextJS, Express, Flask.</li>
       <li>💾 PostgreSQL, MySQL, MongoDB, Firebase, Supabase.</li>
@@ -86,8 +85,7 @@
       <li>🔧 Visual Studio Code. (I don't use Cursor)</li>
       <li>🖥️ Figma</li>
     </ul>
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right">
-  </span>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
+
