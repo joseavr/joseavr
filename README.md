@@ -2,6 +2,14 @@
 <h3 align="center"><image src="https://github.com/joseavr/joseavr/blob/main/image.png" alt="Welcome image"></h3>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> •  
+  <a href="https://marval.xyz/b">Blog</a> •
+  <a href="https://www.linkedin.com/in/joseavr/">Linkedin</a> •
+  <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
+</p>
+
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -10,23 +18,16 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseavr&label=Profile%20views&color=0e75b6&style=flat" alt="joseavr profile count" /> •  
-  <a href="https://marval.xyz/b">Blog</a> •
-  <a href="https://www.linkedin.com/in/joseavr/">Linkedin</a> •
-  <a href="https://terpconnect.umd.edu/~jvaldiv8/csterpconnect/resume.pdf">Resume</a>
-</p>
-
-> 1+ years of experience as a Software Developer, passionate on building complex projects from scratch, leading teams, teaching, and creating documentation.
+> Hi! I'm Jose Valdivia, a Computer Science graduate from the University of Maryland with over 1+ years of experience as a Software Developer. Love developing robust AI systems, designing beautiful components, writing articles on software engineering, and building tools for developers.
 
 
 <h3> Current Projects </h3>
 
-- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - May your tokens never run out—keep agent limits in view.
-- 🚇 **[AppTracker]([https://github.com/amantus-ai/vibetunnel](https://github.com/joseavr/apptracker))** - Turn any browser into your terminal; command agents from the road (vt.sh) <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/>
-- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
-- 🎚️ **[sandbox.tc](https://github.com/joseavr/next-streaming)** - Point at any URL or file. Get the gist.
+- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - An extension for developers to highlight match brackets.
+- 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/>
+- 🔗 **[shortng.link/](https://github.com/joseavr/shorturl.com)** Transform long URLs into memorable short links in seconds.
+- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image. 
+- 🎚️ **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams.
 
 
 <table>
