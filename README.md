@@ -23,63 +23,21 @@
 
 <h3> Current Projects </h3>
 
-- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - An extension for developers to highlight match brackets.
-- 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/>
+- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - A VS extension for developers to highlight match brackets.
+- 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/apptracker?style=flat-square&labelColor=343b41"/>
 - 🔗 **[shortng.link/](https://github.com/joseavr/shorturl.com)** Transform long URLs into memorable short links in seconds.
-- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image. 
-- 🎚️ **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams.
-
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/joseavr/apptracker"><b>AppTracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/apptracker?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/joseavr/code-scope-highlighter"><b>Code Scope Highlighter - VS Code Extension</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/code-scope-highlighter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/joseavr/react-cloudinary-remove-bg
-"><b>Removebg</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/joseavr/next-streaming
-"><b>Sandbox.tv</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/next-streaming?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/>
+- 📺 **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/next-streaming?style=flat-square&labelColor=343b41"/>
 
 
 <h3> Recent Posts </h3>
-
+- [Automate Commit Linting and Package Releases with GitHub Actions](https://joseavr.com/b/automate-workflow)
+- [Web Optimization Techniques You Must Know](https://joseavr.com/b/web-optimization)
+- [Authentication: JWT strategy](https://joseavr.com/b/authentication-jwt)
+- [Authentication: Session Strategies](https://joseavr.com/b/authentication-session-strategies)
+- [Authentication: Google OAuth2.0 with PKCE](https://joseavr.com/b/authentication-oauth2)
 - [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
 - [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
-
 
 
 <h3>About Me</h3>
@@ -90,7 +48,7 @@
 - 📚 Learning about AI agents, RAG, Compilers, React Native.
 - 🙋🏻‍♂️ Open to work on backend/frontend projects. 
 - 📫 How to reach me: jvaldivia.dev@gmail.com
-- 🌐 See personal website: https://marval.xyz
+- 🌐 See personal website: https://joseavr.com
 
 <!-- Valdivia's Language Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseavr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Valdivia's Top Languages" align="right" />
