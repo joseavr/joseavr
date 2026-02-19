@@ -31,13 +31,14 @@
 
 
 <h3> Recent Posts </h3>
-- [Automate Commit Linting and Package Releases with GitHub Actions](https://joseavr.com/b/automate-workflow)
-- [Web Optimization Techniques You Must Know](https://joseavr.com/b/web-optimization)
-- [Authentication: JWT strategy](https://joseavr.com/b/authentication-jwt)
-- [Authentication: Session Strategies](https://joseavr.com/b/authentication-session-strategies)
-- [Authentication: Google OAuth2.0 with PKCE](https://joseavr.com/b/authentication-oauth2)
-- [How to Develop a Software: From Idea to Product ↗](https://www.marval.xyz/b/how-to-develop-software)
-- [Applying SOLID principles in React ↗](https://www.marval.xyz/b/applying-solid-principles-in-react) 
+
+- [Automate Commit Linting and Package Releases with GitHub Actions ↗](https://joseavr.com/b/automate-workflow)
+- [Web Optimization Techniques You Must Know ↗](https://joseavr.com/b/web-optimization)
+- [Authentication: JWT strategy ↗](https://joseavr.com/b/authentication-jwt)
+- [Authentication: Session Strategies ↗](https://joseavr.com/b/authentication-session-strategies)
+- [Authentication: Google OAuth2.0 with PKCE ↗](https://joseavr.com/b/authentication-oauth2)
+- [How to Develop a Software: From Idea to Product ↗](https://joseavr.com/b/how-to-develop-software)
+- [Applying SOLID principles in React ↗](https://joseavr.com/b/applying-solid-principles-in-react) 
 
 
 <h3>About Me</h3>
