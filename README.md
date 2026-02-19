@@ -21,7 +21,7 @@
 > Hi! I'm Jose Valdivia, a Computer Science graduate from the University of Maryland with over 1+ years of experience as a Software Developer. Love developing robust AI systems, designing beautiful components, writing articles on software engineering, and building tools for developers.
 
 
-<h3> Current Projects </h3>
+## Current Projects 
 
 - 🧩 **[Marval UI](https://github.com/joseavr/marval-ui)** - A copy-paste-ready, composable React UI component library.
 - 🎮 **[ConsoleX](https://github.com/joseravr/consolex)** - Debugging and logging widget that displays runtime data on demand
@@ -31,7 +31,7 @@
 - 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image.
 - 📺 **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams. 
 
-<h3> Recent Posts </h3>
+## Recent Posts 
 
 - [Automate Commit Linting and Package Releases with GitHub Actions ↗](https://joseavr.com/b/automate-workflow)
 - [Web Optimization Techniques You Must Know ↗](https://joseavr.com/b/web-optimization)
@@ -42,7 +42,7 @@
 - [Applying SOLID principles in React ↗](https://joseavr.com/b/applying-solid-principles-in-react) 
 
 
-<h3>About Me</h3>
+## About Me
 
 - 💼 Currently working as a Freelancer Web Developer at [Upwork](https://www.upwork.com/).
 - 💼 Formerly Lead Software Developer at [D.C Code Official Association](https://www.linkedin.com/company/dccoa/).
