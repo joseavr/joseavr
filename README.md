@@ -23,12 +23,13 @@
 
 <h3> Current Projects </h3>
 
+- 🧩 **[Marval UI](https://github.com/joseavr/marval-ui)** - A copy-paste-ready, composable React UI component library.
+- 🎮 **[ConsoleX](https://github.com/joseravr/consolex)** - Debugging and logging widget that displays runtime data on demand
 - 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - A VS extension for developers to highlight match brackets.
-- 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/apptracker?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/apptracker?style=flat-square&labelColor=343b41"/>
+- 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard.
 - 🔗 **[shortng.link/](https://github.com/joseavr/shorturl.com)** Transform long URLs into memorable short links in seconds.
-- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/react-cloudinary-remove-bg?style=flat-square&labelColor=343b41"/>
-- 📺 **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams. <img alt="Stars" src="https://img.shields.io/github/stars/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Issues" src="https://img.shields.io/github/issues/joseavr/next-streaming?style=flat-square&labelColor=343b41"/> <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/joseavr/next-streaming?style=flat-square&labelColor=343b41"/>
-
+- 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image.
+- 📺 **[SandboxTv](https://github.com/joseavr/next-streaming)** - Watch simultaneously both twitch and youtube streams. 
 
 <h3> Recent Posts </h3>
 
