@@ -25,7 +25,7 @@
 
 - 🧩 **[Marval UI](https://github.com/joseavr/marval-ui)** - A copy-paste-ready, composable React UI component library.
 - 🎮 **[ConsoleX](https://github.com/joseravr/consolex)** - Debugging and logging widget that displays runtime data on demand
-- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - A VS extension for developers to highlight match brackets.
+- 👉 **[Code Scope Highlighter](https://github.com/joseavr/code-scope-highlighter)** - A VS extension for developers to highlight match brackets and code blocks.
 - 🚇 **[AppTracker](https://github.com/joseavr/apptracker)** - Tracks job applications in a beautifully designed dashboard.
 - 🔗 **[shortng.link/](https://github.com/joseavr/shorturl.com)** Transform long URLs into memorable short links in seconds.
 - 🚀 **[Removebg](https://github.com/joseavr/react-cloudinary-remove-bg)** - Remove background from any image.
